@@ -1,6 +1,6 @@
 # Instructions
 
-# You will watch a series of video segments. In each video you will see a group video call snippet. For each video, we will ask you to evaluate the involvement of the group in that specific moment of conversation. 
+You will watch a series of video segments. In each video you will see a group video call snippet. For each video, we will ask you to evaluate the involvement of the group in that specific moment of conversation. 
 
 ### Attention checks
 Throughout the experiment, you will also complete attention checks (very obvious questions) to make sure that you are still paying attention and answering based on the videos shown. To be paid for the experiment, you need to pass all the attention checks correctly. Overall, the experiment should last around an hour..
